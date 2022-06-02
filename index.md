@@ -16,7 +16,7 @@ title: DREAM Project Site
   people working in other areas who could benefit from such tools but who might be hesistant to give them a try. 
 
   Outside of computer science, you can probably find me trying every single coffee shop in New York, trying to pick up a bit of a new language
-  here or there, and learning how to be a better cook and baker..
+  here or there, and learning how to be a better cook and baker.
 
 ## About My Advisor
 
