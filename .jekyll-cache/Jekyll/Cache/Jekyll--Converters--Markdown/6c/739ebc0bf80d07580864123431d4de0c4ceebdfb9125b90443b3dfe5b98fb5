@@ -1,0 +1,33 @@
+I"P<ul id="markdown-toc">
+  <li><a href="#about-me" id="markdown-toc-about-me">About Me</a></li>
+  <li><a href="#about-my-advisor" id="markdown-toc-about-my-advisor">About My Advisor</a></li>
+  <li><a href="#about-my-project" id="markdown-toc-about-my-project">About My Project</a></li>
+  <li><a href="#my-blog" id="markdown-toc-my-blog">My Blog</a></li>
+</ul>
+
+<h2 id="about-me">About Me</h2>
+
+<p>Hey! I’m Joe. I used to work as an international tax consultant, and now I’m a 
+  current computer science master’s student at Columbia University. My prior work dealt with a lot of Excel and financial reporting data, 
+  which got me interested in how computer science could help make my job more efficient. After doing some work around
+  VBA automation, I decided to go back to school to improve my formal computer science training. Studying computer science,
+  I have grown curious how business and society can bridge the gap between things like databases and machine learning and 
+  people working in other areas who could benefit from such tools but who might be hesistant to give them a try.</p>
+
+<p>Outside of computer science, you can probably find me trying every single coffee shop in New York, trying to pick up a bit of a new language
+  here or there, and learning how to be a better cook and baker.</p>
+
+<h2 id="about-my-advisor">About My Advisor</h2>
+
+<p>Advisor info goes here.</p>
+
+<h2 id="about-my-project">About My Project</h2>
+
+<p>Project description goes here.</p>
+
+<p><a href="files/finalreport.pdf">My Final Report</a></p>
+
+<h2 id="my-blog">My Blog</h2>
+
+<p><a href="blog.html">My Blog</a></p>
+:ET
