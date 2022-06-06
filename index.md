@@ -22,7 +22,7 @@ See here for the WuLab [Website](https://cudbg.github.io/lab/) & [Blog](https://
 
 ## About My Project
 
-Billions of dollars of crops are lost each decade to disasters ([link](https://www.fao.org/resources/digital-reports/disasters-in-agriculture/en/)), and climate change may impact where and how much of different crops can be produced ([link](https://climate.nasa.gov/news/3124/global-climate-change-impact-on-crops-expected-within-10-years-nasa-study-finds/)). To counter the ever-present and growing risk to crops, insurance programs have been created to help farmers all over the world. 
+Billions of dollars of crops are lost each decade to disasters according to the [FAO](https://www.fao.org/resources/digital-reports/disasters-in-agriculture/en/), and as this NASA [article](https://climate.nasa.gov/news/3124/global-climate-change-impact-on-crops-expected-within-10-years-nasa-study-finds/) notes, climate change may impact where and how much of different crops can be produced . To counter the ever-present and growing risk to crops, insurance programs have been created to help farmers all over the world. 
 
 Some of these programs employ index insurance (i.e., insurance that provides a payout at a trigger reached on some index). Index insurance creates a clear way to provide payouts, but it also simplifies the complexity of the world. This creates a dilemma; how do you design a good trigger so no one is left behind while also incentivizing people to produce as much as possible? One approach is to try and adjust your quantitative index for feedback from in-person assessments.  
 
